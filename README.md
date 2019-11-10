@@ -9,6 +9,7 @@ Step 1: Download Python from www.python.org
 Step 2: Install the following dependencies:
 
 pip install kivy
+
 pip install hashlib
 
 Step 3: To test goto output/wallet_ui/wallet_ui.exe and create your wallet
