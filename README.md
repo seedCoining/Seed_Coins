@@ -1,4 +1,4 @@
-#Seed coin Dev# 
+# Seed coin Dev # 
 
 	Partial Development. Transaction feature to be added in further releases.
 
@@ -10,7 +10,7 @@
 
 	Source made public!
 
-#How to use?#
+# How to use? #
 
 	1. Goto wallet_ui folder and run wallet_ui.exe.
 
