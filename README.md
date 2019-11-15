@@ -1,3 +1,7 @@
+# Updates #
+
+	Added the CLI(Command Line Interface) version of wallet as wallet_ui_cli
+
 # Seed coin Dev # 
 
 	Partial Development. Transaction feature to be added in further releases.
